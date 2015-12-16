@@ -1,7 +1,7 @@
 name: Jedi Executive
 favicon: null
-layout_spectrum: 0.8510794071480632
-typography_spectrum: 0.7682649840135127
+layout_spectrum: 0.1153
+typography_spectrum: 0.4924
 title: Way of the Jedi Executive
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
-  brandStrength: 0.7394481431692839
-  lightness: 0.01810038019903004
-  saturation: 0.8912714212201536
-  rhythmicContrast: 0.10627301316708326
+  brandStrength: 0.125
+  lightness: 0.5
+  saturation: 0.75
+  rhythmicContrast: 0.75
 purpose: []
