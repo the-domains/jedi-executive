@@ -1,20 +1,4 @@
-name: Jedi Executive
-favicon: null
-layout_spectrum: 0.1153
 typography_spectrum: 0.4924
-title: Way of the Jedi Executive
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#9D2D3C'
@@ -26,4 +10,20 @@ color:
   lightness: 0.5
   saturation: 0.75
   rhythmicContrast: 0.75
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.1153
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Jedi Executive
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Jedi Executive
 purpose: []
